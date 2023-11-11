@@ -2,8 +2,6 @@ import Footer from "@/components/Footer";
 import { NavBar } from "@/components/NavBar";
 import { api } from "@/lib/api";
 import "@/styles/globals.css";
-import { cn } from "@/styles/utils";
-import { Inter as FontSans } from "@next/font/google";
 import { ThemeProvider } from "next-themes";
 import { type AppType } from "next/app";
 
